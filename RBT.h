@@ -3,8 +3,7 @@
 template <typename T> class RBST;
 template <typename T> class  node;
 
-template <typename T>
-class node
+template <typename T>class node
 {
 public:
 
